@@ -17,3 +17,6 @@ It is a project that can let you create a simple NAS system on your computer
 
 ## Supported Language:
 - 繁體中文 (Traditional-Chinese)
+
+## Download:
+[Download CloudyNAS Python Server]https://github.com/JacksonLinQAQ/CloudyNAS/raw/main/CloudyNAS_V2.2.zip
