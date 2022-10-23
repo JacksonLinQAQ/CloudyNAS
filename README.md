@@ -47,6 +47,12 @@ It is a project that can let you create a simple NAS system on your computer</br
 - 8) Enter the username & password (default username: user, password: user) then click '登入' to login
 - 9) Then you may logged in to the NAS
 
+### Access The Administrator Settings Page Of The NAS
+***You need to make sure you're using the computer that it's running the server to access the administrator settings page***
+- 1) Go to the home page of the NAS
+- 2) Click '管理員設置' on the web page to access the administrator settings page
+- 3) Now you can manage all users in this page
+
 ## Supported Language:
 - 繁體中文 (Traditional-Chinese)
 
