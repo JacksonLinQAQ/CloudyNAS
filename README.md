@@ -1,5 +1,5 @@
 # CloudyNAS
-It is a project that can let you create a simple NAS system on your computer
+It is a project that can let you create a simple NAS system on your computer</br>
 *The client must be on the same network as the server to access the NAS*
 
 ## Used Programming Languages:
