@@ -45,7 +45,7 @@ It is a project that can let you create a simple NAS system on your computer</br
 - 6) Type the url that shown on the server and press 'Enter'
 - 7) Click '登入' on the web page to login your account
 - 8) Enter the username & password (default username: user, password: user) then click '登入' to login
-- 9) Then you may be logged in to the NAS
+- 9) Then you may logged in to the NAS
 
 ## Supported Language:
 - 繁體中文 (Traditional-Chinese)
