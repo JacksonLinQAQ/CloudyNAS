@@ -1,5 +1,6 @@
 # CloudyNAS
 It is a project that can let you create a simple NAS system on your computer
+*The client must be on the same network as the server to access the NAS*
 
 ## Used Programming Languages:
 - HTML
@@ -28,9 +29,23 @@ It is a project that can let you create a simple NAS system on your computer
 ## Access Method:
 - web browser
 
-## Default Account:
+## Default Username & Password:
 - Username: user
 - Password: user
+
+## Setting Steps:
+### Run NAS Server
+- 1) Download the server files below
+- 2) Extract the folder
+- 3) Install all require modules on Windows CMD
+- 4) Run the ``main.py`` file to run the NAS server
+
+### Access The NAS Server
+- 5) Open a web browser
+- 6) Type the url that shown on the server and press 'Enter'
+- 7) Click '登入' on the web page to login your account
+- 8) Enter the username & password (default username: user, password: user) then click '登入' to login
+- 9) Then you may be logged in to the NAS
 
 ## Supported Language:
 - 繁體中文 (Traditional-Chinese)
