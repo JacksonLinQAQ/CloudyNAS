@@ -58,7 +58,7 @@ It is a project that can let you create a simple NAS system on your computer</br
 
 ## Download:
 
-**(Recommended) Download The Latest Version:**</br>
+**Download The Latest Version: (Recommended)**</br>
 [CloudyNAS Server V2.4](https://github.com/JacksonLinQAQ/CloudyNAS/raw/main/CloudyNAS_V2.4.zip)</br>
 
 **Download Another Versions:**</br>
